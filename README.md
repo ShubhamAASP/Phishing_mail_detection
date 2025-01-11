@@ -27,7 +27,7 @@ This project implements a **Phishing Email Detection System** using **Machine Le
 3. Run the Flask Application
    Once the dependencies are installed, start the Flask app by running:
 
-   '''bash
+   ```bash
    python app.py
    The Flask app will run on http://127.0.0.1:5000/.
 
