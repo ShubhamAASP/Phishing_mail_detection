@@ -17,10 +17,9 @@ This project implements a **Phishing Email Detection System** using **Machine Le
 1. Clone this repository.
    ```bash
    git clone https://github.com/ShubhamAASP/Phishing_mail_detection.git
-2. Install Dependencies
+2. Install Dependencies.
    Navigate to the project directory and install the required dependencies:
-
-   '''bash
+   ```bash
    cd Phishing_mail_detection
    pip install -r requirements.txt
    Ensure you have Python 3.x and pip installed on your machine. The requirements.txt file includes all necessary libraries like Flask, scikit-learn, pandas, numpy, and joblib.
