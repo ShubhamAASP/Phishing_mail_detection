@@ -22,14 +22,14 @@ This project implements a **Phishing Email Detection System** using **Machine Le
    ```bash
    cd Phishing_mail_detection
    pip install -r requirements.txt
-   Ensure you have Python 3.x and pip installed on your machine. The requirements.txt file includes all necessary libraries like Flask, scikit-learn, pandas, numpy, and joblib.
+Ensure you have Python 3.x and pip installed on your machine. The requirements.txt file includes all necessary libraries like Flask, scikit-learn, pandas, numpy, and joblib.
 
 3. Run the Flask Application
    Once the dependencies are installed, start the Flask app by running:
 
    ```bash
    python app.py
-   The Flask app will run on http://127.0.0.1:5000/.
+The Flask app will run on http://127.0.0.1:5000/.
 
 4. Open the Web Application
    To use the phishing email detection system, open a web browser and visit http://127.0.0.1:5000/.
